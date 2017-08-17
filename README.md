@@ -1,18 +1,18 @@
 # Fake-music-detection
 Fake music detection  Matlab project to detect fake music from signal processing techniques Developed GUI for music generation and saving generated file, fake music detection.  
----% DSP Mini-Project %---
+
 
 By:Rohan Chawhan [16210076]
    Kapil Pathak [13110076]
    Preet Khaturia [16210065]
 
-1> Start MATLAB R2014b or higher.
-2> Press 'Run' to start GUI through Editor tab.
+Start MATLAB R2014b or higher.
+Press 'Run' to start GUI through Editor tab.
 
 --------------------------------------------------------------
 HOW TO SYNTHESIZE MUSIC
 --------------------------------------------------------------
-%% Using Matrix
+Using Matrix
 
 1> Give Sampling Frequency - 'Fs'.
 2> Give Beats per Minutes - 'BPM'.
@@ -25,39 +25,39 @@ HOW TO SYNTHESIZE MUSIC
 
 %% Using Piano keyboard
 
-1> Press 'Start Playing'.
-2> Set Note for each corresponding Key being pressed on Keyboard.
-3> Press 'Stop'.
+Press 'Start Playing'.
+Set Note for each corresponding Key being pressed on Keyboard.
+Press 'Stop'.
 
 --------------------------------------------------------------
 HOW TO SAVE '*.wav' FILE INTO ANY PARTICULAR LOCATION 
 --------------------------------------------------------------
 
-1> Give 'Title' for the '*.wav' file to be saved.
-2> Press 'Enter Title'.
-3> Press 'Get path'. (To get the desired location)
-4> Choose the generated song to be saved from the options.
-5> Press 'Save Wave File'.
+Give 'Title' for the '*.wav' file to be saved.
+Press 'Enter Title'.
+Press 'Get path'. (To get the desired location)
+Choose the generated song to be saved from the options.
+Press 'Save Wave File'.
 
 --------------------------------------------------------------
 HOW TO DETECT THE NOTES OF A GIVEN TONE
 --------------------------------------------------------------
 
-1> Enter sampling frequency and press enter
-2> Choose the options under Note detection.
-3> Press 'Detect Note'.
+Enter sampling frequency and press enter
+Choose the options under Note detection.
+Press 'Detect Note'.
 
 
 --------------------------------------------------------------
 HOW TO DETECT THE FAKE MUSIC
 --------------------------------------------------------------
 
-1> Choose the options under Fake Music detection.
-2> Press 'Fake Music Detector 1'.
+Choose the options under Fake Music detection.
+Press 'Fake Music Detector 1'.
 		OR
-   Press 'Fake Music Detector 2'.
+Press 'Fake Music Detector 2'.
 
-3> To get the output of the detector, see the string at command window.
+To get the output of the detector, see the string at command window.
 
 
 
